@@ -35,10 +35,3 @@ I build web products end to end: **Next.js/React** interfaces, **Python (FastAPI
 | [**AutoComanda**](https://github.com/1joa3/comanda-75) | Imprime comandas de produção automaticamente a partir das vendas do PDV (Winthor/Oracle) · *Auto kitchen tickets from POS sales* | Python · Oracle · SQLite |
 | [**Url-Short**](https://github.com/1joa3/Url-Short) | Encurtador de URLs com concorrência segura · *Concurrent URL shortener* | Go |
 | [**Estrutura de Dados**](https://github.com/1joa3/Projeto-de-estrutura-de-Dados) | Sistema de fila encadeada · *Linked-list queue system* | C++ |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1joa3&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1joa3&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top languages" />
-</p>
