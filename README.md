@@ -32,6 +32,5 @@ I build web products end to end: **Next.js/React** interfaces, **Python (FastAPI
 |---|---|---|
 | [**Livro-Caixa (Organizai)**](https://github.com/1joa3/Organizai) | App de finanças pessoais: transações, investimentos, metas e dashboard · *Personal finance app* | Next.js · Prisma · Tailwind · Chart.js |
 | [**NFE-Validator**](https://github.com/1joa3/NFE-Validator-) | Validação de XMLs de Nota Fiscal Eletrônica · *Brazilian e-invoice XML validator* | Python |
-| [**AutoComanda**](https://github.com/1joa3/comanda-75) | Imprime comandas de produção automaticamente a partir das vendas do PDV (Winthor/Oracle) · *Auto kitchen tickets from POS sales* | Python · Oracle · SQLite |
 | [**Url-Short**](https://github.com/1joa3/Url-Short) | Encurtador de URLs com concorrência segura · *Concurrent URL shortener* | Go |
 | [**Estrutura de Dados**](https://github.com/1joa3/Projeto-de-estrutura-de-Dados) | Sistema de fila encadeada · *Linked-list queue system* | C++ |
